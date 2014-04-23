@@ -135,6 +135,10 @@ a:focus {
     -o-background-size: cover;
 }
 
+#paul {
+    background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
+}
+
 .intro-body {
     display: table-cell;
     vertical-align: middle;
